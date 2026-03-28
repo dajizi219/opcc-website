@@ -1,0 +1,116 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "tickets": "Tickets",
+    "booth": "Exhibition",
+    "ai": "AI Expo",
+    "faq": "Info"
+  },
+  "home": {
+    "title": "2026 OPC One-Person Company Co-creation Conference",
+    "subtitle": "AI Empowers Individual Success · Digital-Physical Integration for Co-created Ecosystem",
+    "date": "August 28, 2026 | 9:00–17:30",
+    "location": "China National Convention Center",
+    "registerBtn": "Register Now",
+    "learnMore": "Learn More"
+  },
+  "about": {
+    "title": "About the Conference",
+    "description": "In an era where AI is comprehensively reconstructing individual productivity, one-person companies have become efficient, flexible, and highly dynamic business units, breaking traditional entrepreneurial boundaries and maximizing the release of individual value.\n\nThis OPCC focuses on the core tracks of AI + one-person company, super individuals, small and micro entrepreneurship, and digital-physical integration. We have a special AI application exhibition area, focusing on cutting-edge applications such as AI large models, AIGC, intelligent operation, AI Agent, and digital SaaS. We build a professional, accurate, and long-term symbiotic resource co-creation and exchange platform for individual entrepreneurs, AI service providers, and industry partners.\n\nThis conference innovatively adopts a co-creation sharing mechanism: breaking the traditional speech model, participants can independently initiate topics, which are voted by all attendees, and corresponding venues are arranged according to topic popularity for public speech sharing. This truly realizes \"everyone can be a speaker, everyone can voice\", allowing every participant to become the core of the conference.",
+    "form": {
+      "title": "Conference Format",
+      "items": ["Main Forum", "Sub-forums", "AI Professional Exhibition", "Co-creation Topic Sharing", "Resource Matching", "Custom Exhibition"]
+    }
+  },
+  "tickets": {
+    "title": "Ticket Types",
+    "individual": {
+      "name": "Visitor Ticket",
+      "price": "¥198 / Person",
+      "benefits": [
+        "Free access to all sub-forums and AI exhibition area",
+        "Free complete digital conference materials",
+        "Permanent membership to OPCC public communication community"
+      ]
+    },
+    "creator": {
+      "name": "OPCC Creator Ticket",
+      "earlyPrice": "Early Bird: ¥1000 / Person (before May 1)",
+      "regularPrice": "Regular Price: ¥2000 / Person (on/after May 1)",
+      "benefits": [
+        "Full access to main forum, all sub-forums and exhibition areas",
+        "Can independently initiate speech topics supported by all attendees",
+        "Higher topic popularity will get bigger venue for formal speech",
+        "Priority access to closed-door co-creation salons with industry guests",
+        "Exclusive priority for on-site resource matching and project connection",
+        "Free complete printed + digital conference materials",
+        "Membership to OPC core co-creation community, connecting high-end contacts",
+        "Exclusive fast check-in channel with one-on-one on-site service",
+        "5 additional complimentary visitor tickets (total value ¥990)"
+      ]
+    }
+  },
+  "booth": {
+    "title": "Exhibition Booths",
+    "standard": {
+      "name": "Standard OPC Booth (Raw Space)",
+      "price": "Public Price: ¥1200 /㎡",
+      "memberPrice": "OPC Member Price: ¥1000 /㎡"
+    },
+    "custom": {
+      "name": "Custom Booth",
+      "price": "Minimum Booking: 36㎡",
+      "priceDetail": "Price: ¥1100 /㎡"
+    },
+    "benefits": {
+      "title": "General Booth Benefits",
+      "items": [
+        "Exclusive right to use the corresponding location in the exhibition area",
+        "Brand exposure in conference proceedings and official materials",
+        "Synchronized brand promotion through all official channels",
+        "Includes corresponding quota of OPCC Creator tickets",
+        "Free access to all conferences, forums and resource matching activities"
+      ]
+    }
+  },
+  "ai": {
+    "title": "AI Exhibition Categories",
+    "description": "The conference prioritizes inviting the following AI-related organizations/individuals to exhibit in the exclusive AI zone:",
+    "categories": [
+      "AI large model applications, AI Agent development services",
+      "AIGC tools for copywriting, design, audio/video, digital humans",
+      "AI operations, AI customer service, AI data analysis, automation SaaS",
+      "AI + finance & taxation, AI + legal, AI + consulting, AI + education",
+      "Digital one-stop solutions for one-person companies",
+      "Digital-physical integration, AI empowering high-quality physical industry projects"
+    ]
+  },
+  "register": {
+    "title": "Registration Information",
+    "deadline": "Registration Deadline: August 20, 2026 (Limited spots, no last-minute registrations accepted when full)",
+    "process": {
+      "title": "Registration Process",
+      "steps": ["Scan QR code to fill information", "Select ticket/booth type", "Complete payment confirmation", "Get electronic participation certificate"]
+    },
+    "contact": {
+      "title": "Contact Information",
+      "phone": "Phone: (To be confirmed)",
+      "wechat": "WeChat: (To be confirmed)"
+    },
+    "notes": {
+      "title": "Notes",
+      "items": [
+        "On-site check-in requires electronic certificate, please arrive 30 minutes early to avoid delays",
+        "Self-initiated topics must be positive, closely aligned with conference theme, and comply with national laws and regulations",
+        "Exhibitors must strictly abide by the management regulations of China National Convention Center and the organizing committee, violations will result in cancellation of qualification",
+        "Ticket and booth fees are non-refundable once confirmed unless caused by the organizer, but can be transferred"
+      ]
+    }
+  },
+  "footer": {
+    "slogan": "AI Empowers, Even One Can Build an Army; Co-create Together, Everyone Can Be a Speaker.",
+    "copyright": "© 2026 2026 OPC One-Person Company Co-creation Conference Organizing Committee. All rights reserved.",
+    "organizedBy": "Organized by: OPC One-Person Company Community"
+  }
+}
