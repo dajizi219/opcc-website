@@ -18,22 +18,23 @@ export const metadata: Metadata = {
 
 type Props = {
   children: React.ReactNode;
-  params: {locale: string};
+  params: Promise<{locale: string}>;
 };
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({locale}));
 }
 
-export default function LocaleLayout({children, params}: Props) {
-  if (!hasLocale(routing.locales, params.locale)) {
+export default async function LocaleLayout({children, params}: Props) {
+  const {locale} = await params;
+  if (!hasLocale(routing.locales, locale)) {
     notFound();
   }
 
   return (
-    <html lang={params.locale} suppressHydrationWarning>
+    <html lang={locale} suppressHydrationWarning>
       <body className={inter.className}>
-        <NextIntlClientProvider locale={params.locale}>
+        <NextIntlClientProvider locale={locale}>
           <div className="min-h-screen flex flex-col">
             <Navigation />
             <main className="flex-grow">{children}</main>
